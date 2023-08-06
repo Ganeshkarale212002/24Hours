@@ -728,7 +728,7 @@ async def cb_handler(client: Client, query: CallbackQuery):
                                 InlineKeyboardButton('Sᴜᴘᴘᴏʀᴛ Gʀᴏᴜᴘ', url=GRP_LNK),
                                 InlineKeyboardButton('Uᴘᴅᴀᴛᴇs Cʜᴀɴɴᴇʟ', url=CHNL_LNK)
                             ],[
-                                InlineKeyboardButton("Bᴏᴛ Oᴡɴᴇʀ", url="telegram.me/mrkrazybot")
+                                InlineKeyboardButton("🔆彡[ HEROFLiX ]彡🔆", url="telegram.me/heroflix")
                                 ]
                                 ]
                             )
@@ -801,7 +801,7 @@ async def cb_handler(client: Client, query: CallbackQuery):
                   InlineKeyboardButton('Sᴜᴘᴘᴏʀᴛ Gʀᴏᴜᴘ', url=GRP_LNK),
                   InlineKeyboardButton('Uᴘᴅᴀᴛᴇs Cʜᴀɴɴᴇʟ', url=CHNL_LNK)
                ],[
-                  InlineKeyboardButton("Bᴏᴛ Oᴡɴᴇʀ", url="telegram.me/mrkrazybot")
+                  InlineKeyboardButton("🔆彡[ HEROFLiX ]彡🔆", url="telegram.me/heroflix")
                  ]
                 ]
             )
