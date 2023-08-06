@@ -46,6 +46,9 @@ DATABASE_URI = environ.get('DATABASE_URI', "mongodb+srv://Testing:Testing@cluste
 DATABASE_NAME = environ.get('DATABASE_NAME', "Ariana")
 COLLECTION_NAME = environ.get('COLLECTION_NAME', 'Ariana')
 
+DWLD = environ.get("DWLD", 'HeroFlix/2322')
+
+
 # Others
 IS_VERIFY = is_enabled((environ.get('IS_VERIFY', 'True')), True)
 HOW_TO_VERIFY = environ.get('HOW_TO_VERIFY', "https://telegram.me/HeroFlix/2322")
