@@ -110,10 +110,8 @@ Nᴀᴍᴇ - {}"""
 ʏᴏᴜ ᴀʀᴇ ᴜꜱɪɴɢ ᴏɴᴇ ᴏꜰ ᴍʏ ᴏʟᴅ ᴍᴇꜱꜱᴀɢᴇꜱ, 
 ᴘʟᴇᴀꜱᴇ ꜱᴇɴᴅ ᴛʜᴇ ʀᴇQᴜᴇꜱᴛ ᴀɢᴀɪɴ."""
 
-    CUDNT_FND = """<i><b>⚠ 404 Error / No Results❗ 
-🚫 The Reason❓[<a href="https://telegram.me/HeroFlix/1371">Click Here</a>]
-📮 Please Follow Request Tips 
-🔆 Request Tips › [<a href="https://telegram.me/HEROFLiX/894">Click Here</a>]</i></b>"""
+    CUDNT_FND = """<b>❗Enter Correct Name👇
+❗सही नाम दर्ज करें👇</b>"""
 
     I_CUDNT = """<i><b>⚠ 404 Error / No Results❗ 
 🚫 The Reason❓[<a href="https://telegram.me/HeroFlix/1371">Click Here</a>]
