@@ -48,7 +48,7 @@ DWLD = environ.get("DWLD", 'HeroFlix/2322')
 
 
 # Others
-IS_VERIFY = is_enabled((environ.get('IS_VERIFY', 'False')), False)
+IS_VERIFY = is_enabled((environ.get('IS_VERIFY', 'True')), True)
 HOW_TO_VERIFY = environ.get('HOW_TO_VERIFY', "https://telegram.me/HeroFlix/2322")
 VERIFY2_URL = environ.get('VERIFY2_URL', "easysky.in")
 VERIFY2_API = environ.get('VERIFY2_API', "8abee50e122616d233cb904039c4fe594fe8574c")
