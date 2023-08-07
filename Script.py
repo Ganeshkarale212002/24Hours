@@ -113,7 +113,7 @@ Nᴀᴍᴇ - {}"""
     CUDNT_FND = """<b>❗Enter Correct Name👇
 ❗सही नाम दर्ज करें👇</b>"""
 
-    I_CUDNT = """<i><b>⚠ 404 Error / No Results❗ 
+    I_CUDNT = """<i><b>⚠ 404 Error | No Results❗ 
 🚫 The Reason❓[<a href="https://telegram.me/HeroFlix/1371">Click Here</a>]
 📮 Please Follow Request Tips 
 🔆 Request Tips › [<a href="https://telegram.me/HEROFLiX/894">Click Here</a>]</i></b>"""
@@ -123,14 +123,14 @@ Nᴀᴍᴇ - {}"""
 📮 Please Follow Request Tips 
 🔆 Request Tips › [<a href="https://telegram.me/HEROFLiX/894">Click Here</a>]</i></b>"""
 
-    MVE_NT_FND = """<i><b>⚠ 404 Error / No Results❗ 
-🚫 The Reason❓[<a href="https://telegram.me/HeroFlix/1371">Click Here</a>]
-📮 Please Follow Request Tips 
-🔆 Request Tips › [<a href="https://telegram.me/HEROFLiX/894">Click Here</a>]</i></b>"""
+    MVE_NT_FND = """<i><b>⚠ 404 Error - No Results❗ 
+🚫 The Reason❓[<a href="https://telegram.me/HeroFlix/1371">Click Here</a>]"""
 
     TOP_ALRT_MSG = """🔆彡[ @HEROFLiX ]彡🔆"""
 
-    MELCOW_ENG = """<b>Hᴇʟʟᴏ {} 😍, Aɴᴅ Wᴇʟᴄᴏᴍᴇ Tᴏ {} Gʀᴏᴜᴘ ❤️</b>"""
+    MELCOW_ENG = """<i><b>🔆 "HEROFLiX • GROUP" 亗 🔆
+    •───────────────────• 
+⚜Hey {}, Welcome To HeroFlix • Group. You Can Request Any Movies, Web-Series, Anime, K-Dramas, Animation etc., here....</i></b>"""
 
     OWNER_INFO = """
 ⍟[ ᴏᴡɴᴇʀ ]⍟ - <a href="https://t.me/MrKrazyBot">🌟 𐌑ᚱ || ᛕᚱᚣ𐌔𐍔 ㇱ 🌟</a>
