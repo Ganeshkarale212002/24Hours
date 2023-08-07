@@ -54,7 +54,8 @@ VERIFY2_URL = environ.get('VERIFY2_URL', "easysky.in")
 VERIFY2_API = environ.get('VERIFY2_API', "8abee50e122616d233cb904039c4fe594fe8574c")
 SHORTLINK_URL = environ.get('SHORTLINK_URL', 'easysky.in')
 SHORTLINK_API = environ.get('SHORTLINK_API', '8abee50e122616d233cb904039c4fe594fe8574c')
-IS_SHORTLINK = is_enabled((environ.get('IS_SHORTLINK', 'False')), False)DELETE_CHANNELS = [int(dch) if id_pattern.search(dch) else dch for dch in environ.get('DELETE_CHANNELS', '0').split()]
+IS_SHORTLINK = is_enabled((environ.get('IS_SHORTLINK', 'False')), False)
+DELETE_CHANNELS = [int(dch) if id_pattern.search(dch) else dch for dch in environ.get('DELETE_CHANNELS', '0').split()]
 MAX_B_TN = environ.get("MAX_B_TN", "10")
 MAX_BTN = is_enabled((environ.get('MAX_BTN', "True")), True)
 PORT = environ.get("PORT", "8080")
