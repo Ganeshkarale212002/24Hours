@@ -21,9 +21,9 @@ BOT_TOKEN = environ.get('BOT_TOKEN', '5635181453:AAGDhU4qCnYDuz0XGcQ-XM9qeHSWMPo
 CACHE_TIME = int(environ.get('CACHE_TIME', 300))
 USE_CAPTION_FILTER = is_enabled((environ.get('USE_CAPTION_FILTER', 'True')), True)
 
-PICS = (environ.get('PICS', 'https://te.legra.ph/file/a3aaa2b9d2086d20700b8.jpg https://te.legra.ph/file/464f88b872aac84be8215.jpg')).split()
-NOR_IMG = environ.get("NOR_IMG", "https://te.legra.ph/file/464f88b872aac84be8215.jpg")
-MELCOW_VID = environ.get("MELCOW_VID", "https://te.legra.ph/file/a3aaa2b9d2086d20700b8.jpg")
+PICS = (environ.get('PICS', 'https://te.legra.ph/file/a3aaa2b9d2086d20700b8.jpg https://te.legra.ph/file/a3aaa2b9d2086d20700b8.jpg')).split()
+NOR_IMG = environ.get("NOR_IMG", "https://te.legra.ph/file/a3aaa2b9d2086d20700b8.jpg")
+MELCOW_VID = environ.get("MELCOW_VID", "https://graph.org/file/8efd0afb0d2be91a7b9e8.jpg")
 SPELL_IMG = environ.get("SPELL_IMG", "https://te.legra.ph/file/464f88b872aac84be8215.jpg")
 
 # Admins, Channels & Users
