@@ -103,8 +103,8 @@ Aᴅᴅᴇᴅ Bʏ - {}"""
 ID - <code>{}</code>
 Nᴀᴍᴇ - {}"""
 
-    ALRT_TXT = """🔆 Honey, It's Not For You❗
-🔆 हनी, ये तुम्हारे लिए नहीं है❗"""
+    ALRT_TXT = """🔆 It's Not For You❗
+🔆 ये तुम्हारे लिए नहीं है❗"""
 
     OLD_ALRT_TXT = """ʜᴇʏ {},
 ʏᴏᴜ ᴀʀᴇ ᴜꜱɪɴɢ ᴏɴᴇ ᴏꜰ ᴍʏ ᴏʟᴅ ᴍᴇꜱꜱᴀɢᴇꜱ, 
@@ -114,26 +114,26 @@ Nᴀᴍᴇ - {}"""
 ❗सही नाम दर्ज करें👇</b>"""
 
     I_CUDNT = """<i><b>⚠ 404 Error | No Results❗ 
-🚫 The Reason❓[<a href="https://telegram.me/HeroFlix/1371">Click Here</a>]
+🚫 The Reason❓[<a href="https://telegram.me/FHDmovies24x7Official/3540">Click Here</a>]
 📮 Please Follow Request Tips 
-🔆 Request Tips › [<a href="https://telegram.me/HEROFLiX/894">Click Here</a>]</i></b>"""
+🔆 Request Tips › [<a href="https://telegram.me/FHDmovies24x7Official/3360">Click Here</a>]</i></b>"""
 
     I_CUD_NT = """<i><b>⚠ 404 Error / No Results❗ 
-🚫 The Reason❓[<a href="https://telegram.me/HeroFlix/1371">Click Here</a>]
+🚫 The Reason❓[<a href="https://telegram.me/FHDmovies24x7Official/3540">Click Here</a>]
 📮 Please Follow Request Tips 
-🔆 Request Tips › [<a href="https://telegram.me/HEROFLiX/894">Click Here</a>]</i></b>"""
+🔆 Request Tips › [<a href="https://telegram.me/FHDmovies24x7Official/3360">Click Here</a>]</i></b>"""
 
     MVE_NT_FND = """<i><b>⚠ 404 Error - No Results❗ 
-🚫 The Reason❓[<a href="https://telegram.me/HeroFlix/1371">Click Here</a>]"""
+🚫 The Reason❓[<a href="https://telegram.me/FHDmovies24x7Official/3540">Click Here</a>]"""
 
-    TOP_ALRT_MSG = """🔆彡[ @HEROFLiX ]彡🔆"""
+    TOP_ALRT_MSG = """🔆彡[ @FHDmovies24x7 ]彡🔆"""
 
-    MELCOW_ENG = """<i><b>🔆 "HEROFLiX • GROUP" 亗 🔆
+    MELCOW_ENG = """<i><b>🔆 "FHDmovies24x7 • GROUP" 亗 🔆
     •───────────────────• 
-⚜Hey {}, Welcome To HeroFlix • Group. You Can Request Any Movies, Web-Series, Anime, K-Dramas, Animation etc., here....</i></b>"""
+⚜Hey {}, Welcome To FHDmovies24x7 • Group. You Can Request Any Movies, Web-Series, Anime, K-Dramas, Animation etc., here....</i></b>"""
 
     OWNER_INFO = """
-⍟[ ᴏᴡɴᴇʀ ]⍟ - <a href="https://t.me/MrKrazyBot">🌟 𐌑ᚱ || ᛕᚱᚣ𐌔𐍔 ㇱ 🌟</a>
+⍟[ ᴏᴡɴᴇʀ ]⍟ - <a href="https://t.me/FHD24x7FeedBot">📲 FHDmovies24x7 FeedBack</a>
 """
 
     REQINFO = """
@@ -178,11 +178,11 @@ Nᴀᴍᴇ - {}"""
 <a href="https://telegram.me/HeroFlix"><b><i>{file_name}</i></b></a>"""
 
     IMDB_TEMPLATE_TXT = """
-🎗 <i><b>{title} ({year}) {kind}  
+🎗 📹 <i><b>{title} ({year}) {kind}
 ━━━━━━━━━━━━━━━
 🎭 Genre › {genres}
 ⭐ Rating › {rating} / 10 
-📚 Story › {plot} </b></i>")
+📚 🔆 Join » @FHDmovies24x7</b></i>")
 """
     
     ALL_FILTERS = """
@@ -215,4 +215,4 @@ Aᴠᴀɪʟᴀʙʟᴇ ᴄᴏᴍᴍᴀɴᴅs:
 🛠️ Bᴜɪʟᴅ Sᴛᴀᴛᴜs: <code>v2.7.1 [ Sᴛᴀʙʟᴇ ]</code></b>"""
 
     LOGO = """
-🔆彡[ @HEROFLiX ]彡🔆"""
+🔆彡[ @FHDmovies24x7 ]彡🔆"""
