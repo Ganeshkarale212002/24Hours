@@ -178,7 +178,7 @@ Nᴀᴍᴇ - {}"""
 <a href="https://telegram.me/HeroFlix"><b><i>{file_name}</i></b></a>"""
 
     IMDB_TEMPLATE_TXT = """
-🎗 📹 <i><b>{title} ({year}) {kind}
+📹 <i><b>{title} ({year}) {kind}
 ━━━━━━━━━━━━━━━
 🎭 Genre › {genres}
 ⭐ Rating › {rating} / 10 
