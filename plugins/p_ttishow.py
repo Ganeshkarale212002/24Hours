@@ -39,7 +39,7 @@ async def save_group(bot, message):
                     InlineKeyboardButton('Sᴜᴘᴘᴏʀᴛ Gʀᴏᴜᴘ', url=GRP_LNK),
                     InlineKeyboardButton('Uᴘᴅᴀᴛᴇs Cʜᴀɴɴᴇʟ', url=CHNL_LNK)
                  ],[
-                    InlineKeyboardButton("🔆彡[ HEROFLiX ]彡🔆", url="https://telegram.me/FHDmovies24x7Official")
+                    InlineKeyboardButton("🔆彡[ FHDmovies24x7 ]彡🔆", url="https://telegram.me/FHDmovies24x7Official")
                   ]]
         reply_markup=InlineKeyboardMarkup(buttons)
         await message.reply_text(
@@ -62,7 +62,7 @@ async def save_group(bot, message):
                                                                            InlineKeyboardButton('Sᴜᴘᴘᴏʀᴛ Gʀᴏᴜᴘ', url=GRP_LNK),
                                                                            InlineKeyboardButton('Uᴘᴅᴀᴛᴇs Cʜᴀɴɴᴇʟ', url=CHNL_LNK)
                                                                         ],[
-                                                                           InlineKeyboardButton("🔆彡[ HEROFLiX ]彡🔆", url="https://telegram.me/FHDmovies24x7Official")
+                                                                           InlineKeyboardButton("🔆彡[ FHDmovies24x7 ]彡🔆", url="https://telegram.me/FHDmovies24x7Official")
                                                                          ]]
                                                  ),
                                                  parse_mode=enums.ParseMode.HTML
