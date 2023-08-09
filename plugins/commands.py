@@ -23,7 +23,7 @@ async def start(client, message):
     if message.chat.type in [enums.ChatType.GROUP, enums.ChatType.SUPERGROUP]:
         buttons = [[
             InlineKeyboardButton('❓How To Use Me', url=f'https://telegram.me/{DWLD}'),
-            InlineKeyboardButton('⚜ Updates', url='https://telegram.me/HeroFlix')
+            InlineKeyboardButton('⚜ Updates', url='https://telegram.me/FHDmovies24x7Official')
         ]]
         reply_markup = InlineKeyboardMarkup(buttons)
         await message.reply_photo(
@@ -44,7 +44,7 @@ async def start(client, message):
     if len(message.command) != 2:
         buttons = [[
             InlineKeyboardButton('❓How To Use Me', url=f'https://telegram.me/{DWLD}'),
-            InlineKeyboardButton('⚜ Updates', url='https://telegram.me/HeroFlix')
+            InlineKeyboardButton('⚜ Updates', url='https://telegram.me/FHDmovies24x7Official')
         ]]
         reply_markup = InlineKeyboardMarkup(buttons)
         await message.reply_photo(
@@ -85,7 +85,7 @@ async def start(client, message):
     if len(message.command) == 2 and message.command[1] in ["subscribe", "error", "okay", "help"]:
         buttons = [[
             InlineKeyboardButton('❓How To Use Me', url=f'https://telegram.me/{DWLD}'),
-            InlineKeyboardButton('⚜ Updates', url='https://telegram.me/HeroFlix')
+            InlineKeyboardButton('⚜ Updates', url='https://telegram.me/FHDmovies24x7Official')
         ]]
         reply_markup = InlineKeyboardMarkup(buttons)
         await message.reply_photo(
@@ -139,7 +139,7 @@ async def start(client, message):
                           InlineKeyboardButton('Sᴜᴘᴘᴏʀᴛ Gʀᴏᴜᴘ', url=GRP_LNK),
                           InlineKeyboardButton('Uᴘᴅᴀᴛᴇs Cʜᴀɴɴᴇʟ', url=CHNL_LNK)
                        ],[
-                          InlineKeyboardButton("🔆彡[ HEROFLiX ]彡🔆", url="telegram.me/heroflix")
+                          InlineKeyboardButton("🔆彡[ HEROFLiX ]彡🔆", url="telegram.me/FHDmovies24x7Offical")
                          ]
                         ]
                     )
@@ -158,7 +158,7 @@ async def start(client, message):
                           InlineKeyboardButton('Sᴜᴘᴘᴏʀᴛ Gʀᴏᴜᴘ', url=GRP_LNK),
                           InlineKeyboardButton('Uᴘᴅᴀᴛᴇs Cʜᴀɴɴᴇʟ', url=CHNL_LNK)
                        ],[
-                          InlineKeyboardButton("🔆彡[ HEROFLiX ]彡🔆", url="telegram.me/heroflix")
+                          InlineKeyboardButton("🔆彡[ HEROFLiX ]彡🔆", url="telegram.me/FHDmovies24x7Official")
                          ]
                         ]
                     )
@@ -277,7 +277,7 @@ async def start(client, message):
                       InlineKeyboardButton('Sᴜᴘᴘᴏʀᴛ Gʀᴏᴜᴘ', url=GRP_LNK),
                       InlineKeyboardButton('Uᴘᴅᴀᴛᴇs Cʜᴀɴɴᴇʟ', url=CHNL_LNK)
                    ],[
-                      InlineKeyboardButton("🔆彡[ HEROFLiX ]彡🔆", url="telegram.me/heroflix")
+                      InlineKeyboardButton("🔆彡[ HEROFLiX ]彡🔆", url="telegram.me/FHDmovies24x7Official")
                      ]
                     ]
                 )
@@ -331,7 +331,7 @@ async def start(client, message):
               InlineKeyboardButton('Sᴜᴘᴘᴏʀᴛ Gʀᴏᴜᴘ', url=GRP_LNK),
               InlineKeyboardButton('Uᴘᴅᴀᴛᴇs Cʜᴀɴɴᴇʟ', url=CHNL_LNK)
            ],[
-              InlineKeyboardButton("🔆彡[ HEROFLiX ]彡🔆", url="telegram.me/heroflix")
+              InlineKeyboardButton("🔆彡[ HEROFLiX ]彡🔆", url="telegram.me/FHDmovies24x7Official")
              ]
             ]
         )
