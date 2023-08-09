@@ -139,7 +139,7 @@ async def start(client, message):
                           InlineKeyboardButton('Sᴜᴘᴘᴏʀᴛ Gʀᴏᴜᴘ', url=GRP_LNK),
                           InlineKeyboardButton('Uᴘᴅᴀᴛᴇs Cʜᴀɴɴᴇʟ', url=CHNL_LNK)
                        ],[
-                          InlineKeyboardButton("🔆彡[ HEROFLiX ]彡🔆", url="telegram.me/FHDmovies24x7Offical")
+                          InlineKeyboardButton("🔆彡[ FHDmovies24x7 ]彡🔆", url="telegram.me/FHDmovies24x7Offical")
                          ]
                         ]
                     )
@@ -158,7 +158,7 @@ async def start(client, message):
                           InlineKeyboardButton('Sᴜᴘᴘᴏʀᴛ Gʀᴏᴜᴘ', url=GRP_LNK),
                           InlineKeyboardButton('Uᴘᴅᴀᴛᴇs Cʜᴀɴɴᴇʟ', url=CHNL_LNK)
                        ],[
-                          InlineKeyboardButton("🔆彡[ HEROFLiX ]彡🔆", url="telegram.me/FHDmovies24x7Official")
+                          InlineKeyboardButton("🔆彡[ FHDmovies24x7 ]彡🔆", url="telegram.me/FHDmovies24x7Official")
                          ]
                         ]
                     )
@@ -277,7 +277,7 @@ async def start(client, message):
                       InlineKeyboardButton('Sᴜᴘᴘᴏʀᴛ Gʀᴏᴜᴘ', url=GRP_LNK),
                       InlineKeyboardButton('Uᴘᴅᴀᴛᴇs Cʜᴀɴɴᴇʟ', url=CHNL_LNK)
                    ],[
-                      InlineKeyboardButton("🔆彡[ HEROFLiX ]彡🔆", url="telegram.me/FHDmovies24x7Official")
+                      InlineKeyboardButton("🔆彡[ FHDmovies24x7 ]彡🔆", url="telegram.me/FHDmovies24x7Official")
                      ]
                     ]
                 )
@@ -331,7 +331,7 @@ async def start(client, message):
               InlineKeyboardButton('Sᴜᴘᴘᴏʀᴛ Gʀᴏᴜᴘ', url=GRP_LNK),
               InlineKeyboardButton('Uᴘᴅᴀᴛᴇs Cʜᴀɴɴᴇʟ', url=CHNL_LNK)
            ],[
-              InlineKeyboardButton("🔆彡[ HEROFLiX ]彡🔆", url="telegram.me/FHDmovies24x7Official")
+              InlineKeyboardButton("🔆彡[ FHDmovies24x7 ]彡🔆", url="telegram.me/FHDmovies24x7Official")
              ]
             ]
         )
