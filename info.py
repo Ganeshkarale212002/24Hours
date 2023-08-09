@@ -15,7 +15,7 @@ def is_enabled(value, default):
 SESSION = environ.get('SESSION', 'Media_search')
 API_ID = int(environ.get('API_ID', '5997447'))
 API_HASH = environ.get('API_HASH', '04fbdff99ed5edff6dfdcc4ef710d04e')
-BOT_TOKEN = environ.get('BOT_TOKEN', '5635181453:AAGDhU4qCnYDuz0XGcQ-XM9qeHSWMPoHvME')
+BOT_TOKEN = environ.get('BOT_TOKEN', '5720019292:AAElanUo3_wnDVzECsj7m70ArgVhJj5e3L0')
 
 # Bot settings
 CACHE_TIME = int(environ.get('CACHE_TIME', 300))
@@ -62,7 +62,7 @@ PORT = environ.get("PORT", "8080")
 GRP_LNK = environ.get('GRP_LNK', 'https://t.me/FHDmovies24x7')
 CHNL_LNK = environ.get('CHNL_LNK', 'https://t.me/FHDmovies24x7Official')
 MSG_ALRT = environ.get('MSG_ALRT', '🔆彡[ FHDmovies24x7 ]彡🔆')
-LOG_CHANNEL = int(environ.get('LOG_CHANNEL', -1001683103329))
+LOG_CHANNEL = int(environ.get('LOG_CHANNEL', -1001841962693))
 SUPPORT_CHAT = environ.get('SUPPORT_CHAT', 'FHD24x7FeedBot')
 P_TTI_SHOW_OFF = is_enabled((environ.get('P_TTI_SHOW_OFF', "True")), True)
 IMDB = is_enabled((environ.get('IMDB', "False")), False)
