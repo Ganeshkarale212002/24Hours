@@ -40,9 +40,9 @@ reqst_channel = environ.get('REQST_CHANNEL_ID')
 REQST_CHANNEL = int(reqst_channel) if reqst_channel and id_pattern.search(reqst_channel) else None
 SUPPORT_CHAT_ID = int(support_chat_id) if support_chat_id and id_pattern.search(support_chat_id) else None
 NO_RESULTS_MSG = is_enabled((environ.get('NO_RESULTS_MSG', 'False')), False)
-DATABASE_URI = environ.get('DATABASE_URI', "")
-DATABASE_NAME = environ.get('DATABASE_NAME', "Dynasty")
-COLLECTION_NAME = environ.get('COLLECTION_NAME', 'Dynasty')
+DATABASE_URI = environ.get('DATABASE_URI', "mongodb+srv://Testing:212002@testing.7plrokt.mongodb.net/?retryWrites=true&w=majority")
+DATABASE_NAME = environ.get('DATABASE_NAME', "Testing")
+COLLECTION_NAME = environ.get('COLLECTION_NAME', 'Testing')
 
 DWLD = environ.get("DWLD", 'FHDmovies24x7Official/3536')
 
