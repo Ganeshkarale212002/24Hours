@@ -658,7 +658,7 @@ async def send_all(bot, userid, files, ident):
                         InlineKeyboardButton('Sᴜᴘᴘᴏʀᴛ Gʀᴏᴜᴘ', url=GRP_LNK),
                         InlineKeyboardButton('Uᴘᴅᴀᴛᴇs Cʜᴀɴɴᴇʟ', url=CHNL_LNK)
                     ],[
-                        InlineKeyboardButton("🔅 FHDmovies24x7 🔅", url="t.me/FHDmovies24x7")
+                        InlineKeyboardButton("🔆彡[ FHDmovies24x7 ]彡🔆", url="t.me/FHDmovies24x7")
                         ]
                     ]
                 )
