@@ -27,11 +27,11 @@ MELCOW_VID = environ.get("MELCOW_VID", "https://graph.org/file/8efd0afb0d2be91a7
 SPELL_IMG = environ.get("SPELL_IMG", "https://te.legra.ph/file/464f88b872aac84be8215.jpg")
 
 # Admins, Channels & Users
-ADMINS = [int(admin) if id_pattern.search(admin) else admin for admin in environ.get('ADMINS', '1089524901').split()]
-CHANNELS = [int(ch) if id_pattern.search(ch) else ch for ch in environ.get('CHANNELS', '-1001623403850').split()]
+ADMINS = [int(admin) if id_pattern.search(admin) else admin for admin in environ.get('ADMINS', '6118320345').split()]
+CHANNELS = [int(ch) if id_pattern.search(ch) else ch for ch in environ.get('CHANNELS', '-1001551613373').split()]
 auth_users = [int(user) if id_pattern.search(user) else user for user in environ.get('AUTH_USERS', '1089524901').split()]
 AUTH_USERS = (auth_users + ADMINS) if auth_users else []
-auth_channel = environ.get('AUTH_CHANNEL', '-1001362105778')
+auth_channel = environ.get('AUTH_CHANNEL', '-1001551613373')
 auth_grp = environ.get('AUTH_GROUP')
 AUTH_CHANNEL = int(auth_channel) if auth_channel and id_pattern.search(auth_channel) else None
 AUTH_GROUPS = [int(ch) for ch in auth_grp.split()] if auth_grp else None
@@ -62,7 +62,7 @@ PORT = environ.get("PORT", "8080")
 GRP_LNK = environ.get('GRP_LNK', 'https://t.me/FHDmovies24x7')
 CHNL_LNK = environ.get('CHNL_LNK', 'https://t.me/FHDmovies24x7Official')
 MSG_ALRT = environ.get('MSG_ALRT', '🔆彡[ FHDmovies24x7 ]彡🔆')
-LOG_CHANNEL = int(environ.get('LOG_CHANNEL', -1001683103329))
+LOG_CHANNEL = int(environ.get('LOG_CHANNEL', -1001551613373))
 SUPPORT_CHAT = environ.get('SUPPORT_CHAT', 'FHD24x7FeedBot')
 P_TTI_SHOW_OFF = is_enabled((environ.get('P_TTI_SHOW_OFF', "True")), True)
 IMDB = is_enabled((environ.get('IMDB', "False")), False)
